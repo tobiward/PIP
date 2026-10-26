@@ -1,4 +1,4 @@
-const CACHE = 'pip-v7';
+const CACHE = 'pip-v10';
 const FILES = ['./', 'index.html', 'manifest.json', 'bg.svg', 'icon-180.png', 'icon-192.png', 'icon-512.png'];
 
 self.addEventListener('install', e => {
